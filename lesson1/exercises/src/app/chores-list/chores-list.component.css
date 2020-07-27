@@ -1,0 +1,12 @@
+div{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: green;
+}
+
+h3{
+    text-underline-position: below;
+}
+
+ul{
+    font-style: italic;
+}
